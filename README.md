@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_Abhayparashar/Shoemate">
-    <img src="imag/profile.png" alt="Logo" width="80" height="80">
+    <img src="img/profile.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">SHOEMATE</h3>

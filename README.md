@@ -21,7 +21,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Project
 
  <a href="https://github.com/github_Abhayparashar/Shoemate">
     <img src="img/shoemate.jpg">
